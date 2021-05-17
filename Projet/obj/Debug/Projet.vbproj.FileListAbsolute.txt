@@ -1,0 +1,17 @@
+C:\Users\jihan\source\repos\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\jihan\source\repos\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\jihan\source\repos\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\jihan\source\repos\Projet\Projet\bin\Debug\Projet.xml
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.vbprojAssemblyReference.cache
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Form1.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Form2.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Form3.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Form4.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Form5.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Form6.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.Resources.resources
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.vbproj.GenerateResource.cache
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.vbproj.CoreCompileInputs.cache
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.xml
+C:\Users\jihan\source\repos\Projet\Projet\obj\Debug\Projet.pdb
